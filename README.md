@@ -89,5 +89,3 @@ bash
 Copy code
 /opt/kafka/bin/kafka-console-consumer.sh --topic demo_test --from-beginning --bootstrap-server 16.1
 
-
-convert complete in markdown even titles and all
